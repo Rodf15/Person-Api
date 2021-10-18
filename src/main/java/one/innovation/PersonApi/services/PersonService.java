@@ -6,7 +6,7 @@ import one.innovation.PersonApi.dto.Response.MessageResponseDTO;
 import one.innovation.PersonApi.entities.Person;
 import one.innovation.PersonApi.exeption.PersonNotFoundException;
 import one.innovation.PersonApi.mapper.PersonMapper;
-import one.innovation.PersonApi.repositories.PersonRepository;
+import one.innovation.PersonApi.repository.PersonRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
